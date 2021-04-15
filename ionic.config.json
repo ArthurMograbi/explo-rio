@@ -1,0 +1,8 @@
+{
+  "name": "ExploRio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b9034fee"
+}
